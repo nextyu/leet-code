@@ -1,4 +1,4 @@
-package com.nextyu.leetcode._0001_two_sum;
+package com.nextyu.leetcode._0001_Two_Sum;
 
 import org.junit.Test;
 
