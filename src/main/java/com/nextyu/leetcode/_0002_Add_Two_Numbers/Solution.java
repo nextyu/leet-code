@@ -22,7 +22,7 @@ public class Solution {
             int y = q != null ? q.val : 0;
             int sum = carry + x + y;
             carry = sum / 10; // 进位
-            current.next = new ListNode(sum % 10);
+            current.next = new ListNode(sum % 10); // 余数
             p = p != null ? p.next : null;
             q = q != null ? q.next : null;
             current = current.next;
