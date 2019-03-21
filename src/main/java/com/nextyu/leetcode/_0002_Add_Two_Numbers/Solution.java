@@ -32,7 +32,6 @@ public class Solution {
             current.next = new ListNode(carry);
         }
 
-
         return dummyHead.next;
     }
 
