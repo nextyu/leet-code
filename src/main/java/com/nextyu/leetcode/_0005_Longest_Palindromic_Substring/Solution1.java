@@ -1,4 +1,4 @@
-package com.nextyu.leetcode._005_Longest_Palindromic_Substring;
+package com.nextyu.leetcode._0005_Longest_Palindromic_Substring;
 
 import org.junit.Test;
 

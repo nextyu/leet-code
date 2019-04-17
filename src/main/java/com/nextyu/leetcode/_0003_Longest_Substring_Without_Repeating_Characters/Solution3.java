@@ -1,11 +1,9 @@
-package com.nextyu.leetcode._003_Longest_Substring_Without_Repeating_Characters;
+package com.nextyu.leetcode._0003_Longest_Substring_Without_Repeating_Characters;
 
 import org.junit.Test;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 /**
  * Sliding Window
